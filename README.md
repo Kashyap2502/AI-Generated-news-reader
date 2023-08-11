@@ -8,7 +8,7 @@ Perfect Lipsync with MakeitTalk open source
 Currently using text to speech model for generating voice for given news text, planning to use a News API for that (0% effort)
 
 # Sample
-![alt text]([https://github.com/Kashyap2502/AI-Generated-news-reader/blob/main/Outs/img.jpg?raw=true])
+![alt text](https://raw.githubusercontent.com/Kashyap2502/AI-Generated-news-reader/main/Outs/img.jpg)
 
 
 
